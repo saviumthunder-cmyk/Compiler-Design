@@ -1,0 +1,4 @@
+M[S, aB] = S -> aB
+M[S, b] = S -> b
+M[B, c] = B -> c
+M[B, dS] = B -> dS

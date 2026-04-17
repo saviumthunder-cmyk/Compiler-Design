@@ -1,0 +1,7 @@
+DFA States: 2
+Alphabet: a
+Transitions:
+0 --a--> 1
+1 --a--> 1
+Start: 0
+Accept: 1
