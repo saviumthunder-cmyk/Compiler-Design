@@ -31,5 +31,5 @@ Run each with `python scripts/<script>.py`
 - `inputs/input_table.txt`: same as `inputs/input_first.txt`
 - `inputs/input_regex.txt`: `a|b`
 
-**GOHUL NANDA**
-RA2311003050027
+**SAMUEL V**
+RA23110030500133
